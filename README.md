@@ -6,6 +6,7 @@ Aplicação em **React** que mostra:
 - 📈 **Gráfico de variação de temperatura**
 - ✨ Estilo moderno com **Glassmorphism**
 - 🔄 Mensagem de **Buscando…** com spinner durante carregamento
+- Deploy: https://climaapptempo.netlify.app/
 
 ---
 
